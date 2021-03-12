@@ -45,13 +45,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
+        With extensive experience mentoring and coaching students of all ages as a Swim Instructor and Volunteer, I communicate effectively with both non technical
+        and technical people. As a formerly trained lifeguard, I am trained to have good attention to detail. With strong communication skills, attention to detail,
+        and my studies in Information Systems Security, I bring a customer-focused approach to the analysis and protection of clients' systems.
     - degree: Honours Bachelor of Applied Information Sciences (Information Systems Security)
       university: Sheridan College
       time: 2019 - present
@@ -69,46 +65,37 @@ experiences:
       time: July 2018 - Aug 2018
       company: City of Brampton
       details: |
-        -Improved customer satisfaction by providing high quality swimming education to classes of up to 10 people.
-        -Ensured safety of staff and customers by supervising multiple swimmers of various age groups, and being inclusive to any disabilities.
-        -Assisted with basic pool maintenance to ensure a safe, orderly working environment. 
-        -Provided Parent/Guardian with detailed report on student success. 
+        - Improved customer satisfaction by providing high quality swimming education to classes of up to 10 people.
+        - Ensured safety of staff and customers by supervising multiple swimmers of various age groups, and being inclusive to any disabilities.
+        - Assisted with basic pool maintenance to ensure a safe, orderly working environment. 
+        - Provided Parent/Guardian with detailed report on student success. 
         
     - role: Aquatics Volunteer
       time: Jan 2015 - Nov 2017
       company: City of Brampton
       details: |
-       -Increased effectiveness of swim instruction by assisting instructor with class and performing demonstrations.
-       -Mentored weakest students one-on-one to help bring them up to class level, and hopefully pass the course.
-       -Performed basic pool cleanliness procedures, and ensured compliance with rules
+       - Increased effectiveness of swim instruction by assisting instructor with class and performing demonstrations.
+       - Mentored weakest students one-on-one to help bring them up to class level, and hopefully pass the course.
+       - Performed basic pool cleanliness procedures, and ensured compliance with rules
     
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are some of the major projects I have completed at Sheridan College.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Digital Forensics Laboratory
+        #link: "#hook"
+        tagline: "Collaborated on a team to design and plan a digital forensics laboratory."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Bluetooth Risk Assessment
+        #link: "#"
+        tagline: "A broad view of bluetooth vulnerabilities from a risk assessment standpoint."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Spoiler Stopper
+        #link: "#"
+        tagline: "Collaborated on the design and planning of a basic Chrome Web application that censors unwanted data."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+     
 
 skills:
     title: Skills &amp; Proficiency
